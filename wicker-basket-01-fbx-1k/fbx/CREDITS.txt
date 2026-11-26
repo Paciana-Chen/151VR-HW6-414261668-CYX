@@ -1,0 +1,15 @@
+Wicker Basket 01
+================
+
+Original author : Kuutti Siitonen - https://polyhaven.com/all?a=Kuutti%20Siitonen
+License         : CC0 1.0 - https://creativecommons.org/publicdomain/zero/1.0/
+Original source : https://polyhaven.com/a/wicker_basket_01
+Changes         : Cleaned up (centered, grounded, renamed), converted to GLB/FBX/OBJ/BLEND
+Distributed by  : AiZity - https://aizity.com
+
+Attribution (copy this when you use the model):
+"Wicker Basket 01" by Kuutti Siitonen (https://polyhaven.com/all?a=Kuutti%20Siitonen) is licensed under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Source: https://polyhaven.com/a/wicker_basket_01. Changes: Cleaned up (centered, grounded, renamed), converted to GLB/FBX/OBJ/BLEND. Distributed by AiZity (https://aizity.com).
+
+This license lets you share and adapt the model, including commercially,
+as long as you give appropriate credit, link to the license, and indicate
+if changes were made.
