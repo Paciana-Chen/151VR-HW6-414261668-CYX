@@ -119,11 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &75378349 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7551320892486753950, guid: b0b314ad4bdd13744bd9d6b2e717c633, type: 3}
-  m_PrefabInstance: {fileID: 1315198036302088599}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -1073,8 +1068,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5471f16a02333b41a647cb852794bc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemGenerator
-  applePrefab: {fileID: 7612947892670014774}
-  bombPrefab: {fileID: 75378349}
+  applePrefab: {fileID: 1564114796439115386, guid: 4fae32ec6575dc643b552c5930a58128, type: 3}
+  bombPrefab: {fileID: 7551320892486753950, guid: b0b314ad4bdd13744bd9d6b2e717c633, type: 3}
 --- !u!4 &1645300705
 Transform:
   m_ObjectHideFlags: 0
@@ -1356,11 +1351,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0b314ad4bdd13744bd9d6b2e717c633, type: 3}
---- !u!1 &7612947892670014774 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1564114796439115386, guid: 4fae32ec6575dc643b552c5930a58128, type: 3}
-  m_PrefabInstance: {fileID: 9114963030909745030}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9114963030909745030
 PrefabInstance:
   m_ObjectHideFlags: 0
